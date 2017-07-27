@@ -2,7 +2,8 @@
  - This the game program written in c by using graphics library.
  - Team: Lucky Barkane
  - Created in 2015
- - 
+ - Sceenshots
+ 
 ![Alt text](https://raw.githubusercontent.com/lucky541/Turbo-Traffic-Racer/master/screenshots/1.png "intro")
 ![Alt text](https://raw.githubusercontent.com/lucky541/Turbo-Traffic-Racer/master/screenshots/2.png "intro")
 ![Alt text](https://raw.githubusercontent.com/lucky541/Turbo-Traffic-Racer/master/screenshots/3.png "intro")
