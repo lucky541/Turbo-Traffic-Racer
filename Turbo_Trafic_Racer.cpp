@@ -166,11 +166,8 @@ void main(){
       if(k==0)
       {
        setcolor(RED);
-	 outtextxy(getmaxx()/2,50,"COMPUTER GRAPHICS PROJECT BY:");
-	 outtextxy(getmaxx()/2,100,"LUCKY BARKANE ");
-	 outtextxy(getmaxx()/2,150,"ALAY JAIN (13C4120)");
-	 outtextxy(getmaxx()/2,200,"AYUSH KUMAR (13C41)");
-	 outtextxy(getmaxx()/2,250,"ASHISH SINGH (13C41)");
+	 outtextxy(getmaxx()/2,150,"COMPUTER GRAPHICS PROJECT BY:");
+	 outtextxy(getmaxx()/2,200,"LUCKY BARKANE ");
 	 getch();
 	 clr();
 	 k++;
