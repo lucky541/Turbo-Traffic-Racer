@@ -1,5 +1,6 @@
 # Turbo Traffic Racer
  - This the game program written in c by using graphics library.
+ - Tool: C.
  - Team: Lucky Barkane
  - Created in 2015
  - Sceenshots
